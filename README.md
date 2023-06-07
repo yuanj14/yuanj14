@@ -1,5 +1,6 @@
 - I'm learning the Markdown....
-- But has used with LaTeX now.\\
+- But has used with LaTeX now.\
+- 
 不需要多少时间就能完成
 
 <!---
